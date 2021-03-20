@@ -1,3 +1,4 @@
+![1200px-Client-server-model svg](https://user-images.githubusercontent.com/55528304/111861409-63a5b700-8991-11eb-96a3-50761e5fef2c.png)
 # 프론트엔드 기초 수업
 
 ## GITHUB 기초 개념
