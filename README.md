@@ -18,4 +18,9 @@
 HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
 
-![1200px-Client-server-model svg](https://user-images.githubusercontent.com/55528304/111861399-51c41400-8991-11eb-847f-4bd66b6badc5.png)
+## WEB/IT 기초 개념
+
+> 클라이언트-서버 모델
+
+<img src="https://github.com/SimEunSeo/green_weekend_03/blob/main/1200px-Client-server-model.svg.png" width="500" />
+<img src="http://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2614/4971.png" width="500" />
