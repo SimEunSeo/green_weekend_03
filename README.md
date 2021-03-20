@@ -17,3 +17,5 @@
 마크다운 사용법 : [안내문서](https://gist.github.com/ihoneymon/652be052a0727ad59601)<br/>
 HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 온라인 에디터 : [Codepen](https://codepen.io/trending)<br/>
+
+![1200px-Client-server-model svg](https://user-images.githubusercontent.com/55528304/111861399-51c41400-8991-11eb-847f-4bd66b6badc5.png)
