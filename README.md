@@ -32,4 +32,47 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 클라이언트는 클라이언트 디바이스에서 실행되는 웹브라우저, 서버는 서버 디바이스에서 실행되는 서버 소프트웨어가 실제로 사용되는 것임
 
 ## HTML
-> [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)<br/>
+[HTML Introduction](https://www.w3schools.com/html/html_intro.asp)<br/>
+[HTML Elements](https://www.w3schools.com/html/html_elements.asp)<br/>
+[HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)<br/>
+>HTML Attributes
+>1) HTML Element에 추가 정보를 제공
+>2) name = "value" 형태로 사용
+
+>웹문서에서 표시할 수 있는 콘텐츠
+>1) text
+>2) image
+
+[HTML Headings](https://www.w3schools.com/html/html_headings.asp)<br/>
+>제목 태그
+>Heading -> h
+>h1 ~ h6
+
+[HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)<br/>
+>단락 태그
+>Paragraph -> p
+>Horizontal Rules -> hr(Empty element)
+
+[HTML Links](https://www.w3schools.com/html/html_links.asp)<br/>
+>하이퍼링크
+>Anchor -> a
+>href : 링크로 연결된 목적지 주소
+>1) 외부링크
+>- 링크 주소 입력시 http(https) 키워드를 사용
+>2) 북마크
+>- 목적지에 id attribute를 사용해서 이름을 정해줌
+>- href attribute를 사용해서 목적지 이름을 입력
+ 
+[HTML Table](https://www.w3schools.com/html/html_tables.asp)<br/>
+>테이블
+>프론트엔드 개발을 위해서는 table을 깊게 공부해야하지만,
+>일단 현재로서는 [Table Generator](https://www.tablesgenerator.com/)라는 웹앱을 활용해 만들자.
+
+[HTML Lists](https://www.w3schools.com/html/html_lists.asp)<br/>
+>목록</br>
+>1) 순서없는 목록(ul)</br>
+>2) 순서있는 목록(ol)</br>
+>3) 설명 목록</br>
+
+>ul, ol 목록 사용 시 중첩(nested) 형태로 사용될 때 포함 관계를 주의</br>
+>포함하는 목록 항목에 작은 목록 전체가 포함됨</br>
