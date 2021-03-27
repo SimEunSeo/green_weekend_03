@@ -43,19 +43,21 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 >1) text
 >2) image
 
+### 텍스트 컨텐츠 요소
+
 [HTML Headings](https://www.w3schools.com/html/html_headings.asp)<br/>
->제목 태그
->Heading -> h
->h1 ~ h6
+>제목 태그 </br>
+>Heading -> h </br>
+>h1 ~ h6 </br>
 
 [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)<br/>
->단락 태그
->Paragraph -> p
->Horizontal Rules -> hr(Empty element)
+>단락 태그 </br>
+>Paragraph -> p </br>
+>Horizontal Rules -> hr(Empty element) </br>
 
 [HTML Links](https://www.w3schools.com/html/html_links.asp)<br/>
->하이퍼링크
->Anchor -> a
+>하이퍼링크</br>
+>Anchor -> a</br>
 >href : 링크로 연결된 목적지 주소
 >1) 외부링크
 >- 링크 주소 입력시 http(https) 키워드를 사용
