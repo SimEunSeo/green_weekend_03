@@ -99,9 +99,9 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 [HTML Youtube Video](https://www.w3schools.com/html/html_youtube.asp)
 >유튜브 비디오</br>
 >Youtube의 매개변수
->1) controls => youtube_url?controls=1
->2) autoply => youtube_url?autoplay=1
->3) mute => youtube_url?mute=1
->4) loop => youtube_url?loop=1
->5) 여러 매개변수 동시 사용 => youtube_url?controls=1&mute=1&loop=1
+>1) controls => youtube_url/VIDEO_ID?controls=1
+>2) autoply => youtube_url/VIDEO_ID?autoplay=1
+>3) mute => youtube_url/VIDEO_ID?mute=1
+>4) loop => youtube_url/VIDEO_ID?loop=1&playlist=VIDEO_ID
+>5) 여러 매개변수 동시 사용 => youtube_url/VIDEO_ID?controls=1&mute=1&loop=1
 
