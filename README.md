@@ -78,3 +78,30 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 
 >ul, ol 목록 사용 시 중첩(nested) 형태로 사용될 때 포함 관계를 주의</br>
 >포함하는 목록 항목에 작은 목록 전체가 포함됨</br>
+
+### 이미지 컨텐츠 요소
+
+[HTMl Image](https://www.w3schools.com/html/html_images.asp)</br>
+>이미지</br>
+>1) src attribute : 가져올 이미지 파일 위치 정보
+>2) alt attribute : 대체 텍스트
+
+### 멀티미디어 컨텐츠 요소
+
+[HTML Video](https://www.w3schools.com/html/html5_video.asp)
+>비디오</br>
+>attribute의 형태는 name = "value"가 원칙이지만 name만 사용하는 예외도 있다.</br></br>
+>video 태그의 attribute (name만 사용)
+>1) controls
+>2) autoplay
+>3) muted
+
+[HTML Youtube Video](https://www.w3schools.com/html/html_youtube.asp)
+>유튜브 비디오</br>
+>Youtube의 매개변수
+>1) controls => youtube_url?controls=1
+>2) autoply => youtube_url?autoplay=1
+>3) mute => youtube_url?mute=1
+>4) loop => youtube_url?loop=1
+>5) 여러 매개변수 동시 사용 => youtube_url?controls=1&mute=1&loop=1
+
