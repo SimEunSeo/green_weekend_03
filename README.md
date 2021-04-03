@@ -74,7 +74,7 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 >목록</br>
 >1) 순서없는 목록(ul)</br>
 >2) 순서있는 목록(ol)</br>
->3) 설명 목록</br>
+>3) 설명 목록(li)</br>
 
 >ul, ol 목록 사용 시 중첩(nested) 형태로 사용될 때 포함 관계를 주의</br>
 >포함하는 목록 항목에 작은 목록 전체가 포함됨</br>
@@ -105,3 +105,14 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 >4) loop => youtube_url/VIDEO_ID?loop=1&playlist=VIDEO_ID
 >5) 여러 매개변수 동시 사용 => youtube_url/VIDEO_ID?controls=1&mute=1&loop=1
 
+### HTML5 Content Model
+: Sectinoing Contents에 초점을 맞출 필요가 있다.</br>
+
+[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+>Semantic Element
+>1) 특정 의미를 부여해준 Container 요소이다
+>2) 레이아웃을 구성할 때 각각의 영역을 구분하기 위해 사용
+
+참고링크</br>
+-[Can I Use](https://caniuse.com/)
+-[Website Template](https://freebiesbug.com/psd-freebies/website-template/)
