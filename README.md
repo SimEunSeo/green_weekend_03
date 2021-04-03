@@ -114,5 +114,5 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 >2) 레이아웃을 구성할 때 각각의 영역을 구분하기 위해 사용
 
 참고링크</br>
--[Can I Use](https://caniuse.com/)
+-[Can I Use](https://caniuse.com/)</br>
 -[Website Template](https://freebiesbug.com/psd-freebies/website-template/)
