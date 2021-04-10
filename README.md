@@ -116,3 +116,18 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 참고링크</br>
 -[Can I Use](https://caniuse.com/)</br>
 -[Website Template](https://freebiesbug.com/psd-freebies/website-template/)
+
+
+[HTML Non-Semantic Elements]()
+>Non-Semantic Element
+>- div(division)
+>- span
+
+### Block/Inline Element
+-block : 새 줄(줄바꿈)에서 표시</br>
+-inline : 한 줄에 나란히 표시</br>
+-포함관계</br>
+ -block : block, inline, contents(text) 모두 포함할 수 있음</br>
+ -inline : inline, contents(text)만 포함 가능</br>
+ -예외 : inline요소인 a 태그는 모두 포함 가능
+
