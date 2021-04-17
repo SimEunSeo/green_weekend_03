@@ -130,4 +130,28 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
  -block : block, inline, contents(text) 모두 포함할 수 있음</br>
  -inline : inline, contents(text)만 포함 가능</br>
  -예외 : inline요소인 a 태그는 모두 포함 가능
+ 
+ ### HTML
+ ```
+ <p id="paragraph1">단락</p>
+ <p class="paragraph2"></p>
+ ```
+ 못씀
+ 
+ > 표기법(여러 단어가 사용될 경우 단어를 구분)
+ - gnb-list-item : kebab case
+ - gnb_list_item : snake case
+ - gnbListItem : camel case
+ - GnbListItem : pascal case
+ 
+ - 파일, 폴더 이름 : snake case
+ - id, class : kebab case
+ - javascript : camel case
 
+### 박스 가로 배치
+> float
+- left, right 속성값으로 가로배치
+- 부모요소를 기준으로 왼쪽 배치, 오른쪽 배치가 됨
+- right 값을 사용하면 박스 순서가 반대로 배치
+
+못씀
