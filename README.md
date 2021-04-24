@@ -155,3 +155,9 @@ HTML, CSS, JS 참고 사이트 : [W3Schools](https://www.w3schools.com/)<br/>
 - right 값을 사용하면 박스 순서가 반대로 배치
 
 못씀
+
+css box model
+width는 부모를 따라가고 height는 자식을 따라간다
+body는 모든 요소의 조상이 된다.
+자식이 띠워지면 부모가 자식을 인식을 못해서 막 이상해진다.
+그래서 자식을 인지하게 해주는 방법 -> clear (벽을 높여준다)
