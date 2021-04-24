@@ -161,3 +161,8 @@ width는 부모를 따라가고 height는 자식을 따라간다
 body는 모든 요소의 조상이 된다.
 자식이 띠워지면 부모가 자식을 인식을 못해서 막 이상해진다.
 그래서 자식을 인지하게 해주는 방법 -> clear (벽을 높여준다)
+
+### 반응형 웹
+> OSMU (One Source Multi Use) - One Source => Html
+> 적응형 웹 - OSMU가 적용되지 않음
+> 오롯이 CSS로 해결
